@@ -1,0 +1,846 @@
+"items","support","count"
+"{body spray,mineral water}",0.00413278229569391,31
+"{body spray,french fries}",0.00426609785361952,32
+"{cider,eggs}",0.00426609785361952,32
+"{mineral water,nonfat milk}",0.00506599120117318,38
+"{pasta,shrimp}",0.00506599120117318,38
+"{escalope,pasta}",0.00586588454872684,44
+"{extra dark chocolate,mineral water}",0.00573256899080123,43
+"{extra dark chocolate,spaghetti}",0.00413278229569391,31
+"{gums,mineral water}",0.00493267564324757,37
+"{mineral water,white wine}",0.00439941341154513,33
+"{spaghetti,white wine}",0.00453272896947074,34
+"{fromage blanc,mineral water}",0.00453272896947074,34
+"{mineral water,mint}",0.00586588454872684,44
+"{black tea,mineral water}",0.0053326223170244,40
+"{black tea,spaghetti}",0.00453272896947074,34
+"{black tea,eggs}",0.00493267564324757,37
+"{black tea,milk}",0.00426609785361952,32
+"{mushroom cream sauce,spaghetti}",0.00426609785361952,32
+"{chocolate,mushroom cream sauce}",0.00439941341154513,33
+"{french fries,mushroom cream sauce}",0.00466604452739635,35
+"{escalope,mushroom cream sauce}",0.00573256899080123,43
+"{mineral water,tomato sauce}",0.00573256899080123,43
+"{spaghetti,tomato sauce}",0.00626583122250367,47
+"{chocolate,tomato sauce}",0.00506599120117318,38
+"{ground beef,tomato sauce}",0.0053326223170244,40
+"{mineral water,strawberries}",0.00506599120117318,38
+"{spaghetti,strawberries}",0.00413278229569391,31
+"{french fries,strawberries}",0.00573256899080123,43
+"{carrots,mineral water}",0.0053326223170244,40
+"{carrots,spaghetti}",0.00466604452739635,35
+"{mineral water,muffins}",0.00439941341154513,33
+"{french fries,muffins}",0.0053326223170244,40
+"{light cream,mineral water}",0.00733235568590855,55
+"{light cream,spaghetti}",0.0053326223170244,40
+"{chicken,light cream}",0.00453272896947074,34
+"{mineral water,protein bar}",0.00773230235968538,58
+"{protein bar,spaghetti}",0.00506599120117318,38
+"{meatballs,mineral water}",0.00773230235968538,58
+"{meatballs,spaghetti}",0.00639914678042928,48
+"{eggs,meatballs}",0.00439941341154513,33
+"{meatballs,milk}",0.00546593787495001,41
+"{mineral water,yogurt cake}",0.00559925343287562,42
+"{eggs,yogurt cake}",0.00453272896947074,34
+"{chocolate,yogurt cake}",0.00439941341154513,33
+"{french fries,yogurt cake}",0.00506599120117318,38
+"{energy bar,mineral water}",0.00679909345420611,51
+"{energy bar,spaghetti}",0.00439941341154513,33
+"{eggs,energy bar}",0.00519930675909879,39
+"{energy bar,french fries}",0.00479936008532196,36
+"{energy bar,milk}",0.00546593787495001,41
+"{energy bar,frozen vegetables}",0.00413278229569391,31
+"{energy drink,mineral water}",0.00559925343287562,42
+"{energy drink,spaghetti}",0.00426609785361952,32
+"{eggs,energy drink}",0.00493267564324757,37
+"{energy drink,french fries}",0.00613251566457806,46
+"{mineral water,rice}",0.00773230235968538,58
+"{rice,spaghetti}",0.00506599120117318,38
+"{chocolate,rice}",0.0053326223170244,40
+"{french fries,rice}",0.00479936008532196,36
+"{ground beef,rice}",0.00439941341154513,33
+"{mineral water,parmesan cheese}",0.00466604452739635,35
+"{parmesan cheese,spaghetti}",0.00679909345420611,51
+"{eggs,parmesan cheese}",0.00453272896947074,34
+"{chocolate,parmesan cheese}",0.00426609785361952,32
+"{frozen vegetables,parmesan cheese}",0.00546593787495001,41
+"{almonds,mineral water}",0.00759898680175977,57
+"{almonds,spaghetti}",0.00599920010665245,45
+"{almonds,eggs}",0.00653246233835489,49
+"{almonds,chocolate}",0.00599920010665245,45
+"{almonds,french fries}",0.00439941341154513,33
+"{almonds,milk}",0.00519930675909879,39
+"{almonds,green tea}",0.00506599120117318,38
+"{almonds,burgers}",0.00519930675909879,39
+"{light mayo,mineral water}",0.00626583122250367,47
+"{eggs,light mayo}",0.00546593787495001,41
+"{chocolate,light mayo}",0.00506599120117318,38
+"{french fries,light mayo}",0.00733235568590855,55
+"{green tea,light mayo}",0.00439941341154513,33
+"{frozen vegetables,light mayo}",0.00439941341154513,33
+"{light mayo,pancakes}",0.00546593787495001,41
+"{mineral water,vegetables mix}",0.00786561791761099,59
+"{spaghetti,vegetables mix}",0.00559925343287562,42
+"{eggs,vegetables mix}",0.00479936008532196,36
+"{chocolate,vegetables mix}",0.00479936008532196,36
+"{french fries,vegetables mix}",0.00559925343287562,42
+"{milk,vegetables mix}",0.00439941341154513,33
+"{green tea,vegetables mix}",0.00506599120117318,38
+"{frozen vegetables,vegetables mix}",0.00439941341154513,33
+"{french wine,mineral water}",0.00826556459138782,62
+"{french wine,spaghetti}",0.00773230235968538,58
+"{eggs,french wine}",0.00599920010665245,45
+"{chocolate,french wine}",0.00519930675909879,39
+"{french wine,milk}",0.00493267564324757,37
+"{french wine,pancakes}",0.00413278229569391,31
+"{burgers,french wine}",0.00413278229569391,31
+"{mineral water,oil}",0.00733235568590855,55
+"{oil,spaghetti}",0.00573256899080123,43
+"{chocolate,oil}",0.00613251566457806,46
+"{milk,oil}",0.00413278229569391,31
+"{green tea,oil}",0.00413278229569391,31
+"{fresh tuna,mineral water}",0.00879882682309025,66
+"{fresh tuna,spaghetti}",0.00679909345420611,51
+"{eggs,fresh tuna}",0.00586588454872684,44
+"{chocolate,fresh tuna}",0.00479936008532196,36
+"{fresh tuna,milk}",0.00479936008532196,36
+"{fresh tuna,frozen vegetables}",0.00413278229569391,31
+"{fresh tuna,pancakes}",0.00506599120117318,38
+"{mineral water,pepper}",0.00826556459138782,62
+"{pepper,spaghetti}",0.00986535128649513,74
+"{eggs,pepper}",0.00466604452739635,35
+"{chocolate,pepper}",0.00639914678042928,48
+"{milk,pepper}",0.00506599120117318,38
+"{green tea,pepper}",0.00519930675909879,39
+"{ground beef,pepper}",0.00653246233835489,49
+"{pancakes,pepper}",0.00479936008532196,36
+"{ham,mineral water}",0.00919877349686708,69
+"{ham,spaghetti}",0.00919877349686708,69
+"{eggs,ham}",0.00626583122250367,47
+"{chocolate,ham}",0.00626583122250367,47
+"{french fries,ham}",0.00559925343287562,42
+"{ham,milk}",0.00493267564324757,37
+"{green tea,ham}",0.00493267564324757,37
+"{ground beef,ham}",0.00493267564324757,37
+"{ham,pancakes}",0.00453272896947074,34
+"{burgers,ham}",0.00559925343287562,42
+"{ham,whole wheat rice}",0.00426609785361952,32
+"{cereals,mineral water}",0.010265297960272,77
+"{cereals,spaghetti}",0.0066657778962805,50
+"{cereals,chocolate}",0.00559925343287562,42
+"{cereals,french fries}",0.00479936008532196,36
+"{cereals,milk}",0.00706572457005733,53
+"{cereals,green tea}",0.00653246233835489,49
+"{cereals,ground beef}",0.00453272896947074,34
+"{cereals,frozen vegetables}",0.00426609785361952,32
+"{cereals,pancakes}",0.00466604452739635,35
+"{mineral water,red wine}",0.0109318757499,82
+"{red wine,spaghetti}",0.010265297960272,77
+"{eggs,red wine}",0.00706572457005733,53
+"{chocolate,red wine}",0.00493267564324757,37
+"{french fries,red wine}",0.0053326223170244,40
+"{green tea,red wine}",0.00466604452739635,35
+"{ground beef,red wine}",0.00479936008532196,36
+"{butter,spaghetti}",0.00626583122250367,47
+"{butter,eggs}",0.00613251566457806,46
+"{butter,chocolate}",0.00826556459138782,62
+"{butter,french fries}",0.00613251566457806,46
+"{butter,milk}",0.00613251566457806,46
+"{butter,green tea}",0.00733235568590855,55
+"{butter,pancakes}",0.00413278229569391,31
+"{butter,low fat yogurt}",0.00439941341154513,33
+"{butter,chicken}",0.00426609785361952,32
+"{mineral water,whole wheat pasta}",0.00959872017064391,72
+"{spaghetti,whole wheat pasta}",0.00879882682309025,66
+"{eggs,whole wheat pasta}",0.00493267564324757,37
+"{chocolate,whole wheat pasta}",0.00626583122250367,47
+"{french fries,whole wheat pasta}",0.00546593787495001,41
+"{milk,whole wheat pasta}",0.00986535128649513,74
+"{green tea,whole wheat pasta}",0.00519930675909879,39
+"{ground beef,whole wheat pasta}",0.00453272896947074,34
+"{frozen vegetables,whole wheat pasta}",0.00493267564324757,37
+"{pancakes,whole wheat pasta}",0.00466604452739635,35
+"{olive oil,whole wheat pasta}",0.0079989334755366,60
+"{cottage cheese,mineral water}",0.00959872017064391,72
+"{cottage cheese,spaghetti}",0.00693240901213172,52
+"{cottage cheese,eggs}",0.00559925343287562,42
+"{chocolate,cottage cheese}",0.00493267564324757,37
+"{cottage cheese,french fries}",0.00586588454872684,44
+"{cottage cheese,milk}",0.00466604452739635,35
+"{cottage cheese,green tea}",0.00639914678042928,48
+"{cottage cheese,frozen vegetables}",0.00413278229569391,31
+"{cottage cheese,pancakes}",0.00519930675909879,39
+"{cake,cottage cheese}",0.00439941341154513,33
+"{cottage cheese,frozen smoothie}",0.00493267564324757,37
+"{hot dogs,mineral water}",0.00919877349686708,69
+"{hot dogs,spaghetti}",0.00866551126516464,65
+"{chocolate,hot dogs}",0.00546593787495001,41
+"{french fries,hot dogs}",0.00733235568590855,55
+"{hot dogs,milk}",0.00439941341154513,33
+"{green tea,hot dogs}",0.0066657778962805,50
+"{hot dogs,pancakes}",0.00426609785361952,32
+"{frozen smoothie,hot dogs}",0.00479936008532196,36
+"{mineral water,tomato juice}",0.00959872017064391,72
+"{spaghetti,tomato juice}",0.00746567124383416,56
+"{eggs,tomato juice}",0.00506599120117318,38
+"{chocolate,tomato juice}",0.00586588454872684,44
+"{french fries,tomato juice}",0.00706572457005733,53
+"{milk,tomato juice}",0.00573256899080123,43
+"{green tea,tomato juice}",0.00626583122250367,47
+"{frozen vegetables,tomato juice}",0.00493267564324757,37
+"{pancakes,tomato juice}",0.00493267564324757,37
+"{fresh bread,tomato juice}",0.00426609785361952,32
+"{brownies,mineral water}",0.00959872017064391,72
+"{brownies,spaghetti}",0.00733235568590855,55
+"{brownies,eggs}",0.00733235568590855,55
+"{brownies,chocolate}",0.00493267564324757,37
+"{brownies,french fries}",0.00786561791761099,59
+"{brownies,milk}",0.00546593787495001,41
+"{brownies,green tea}",0.0066657778962805,50
+"{brownies,ground beef}",0.00493267564324757,37
+"{brownies,frozen vegetables}",0.00439941341154513,33
+"{brownies,pancakes}",0.00546593787495001,41
+"{brownies,cake}",0.00546593787495001,41
+"{champagne,mineral water}",0.00746567124383416,56
+"{champagne,spaghetti}",0.0066657778962805,50
+"{champagne,eggs}",0.0066657778962805,50
+"{champagne,chocolate}",0.0115984535395281,87
+"{champagne,french fries}",0.00933208905479269,70
+"{champagne,milk}",0.0053326223170244,40
+"{champagne,green tea}",0.00826556459138782,62
+"{champagne,frozen vegetables}",0.00479936008532196,36
+"{champagne,pancakes}",0.00506599120117318,38
+"{champagne,frozen smoothie}",0.00466604452739635,35
+"{avocado,mineral water}",0.0115984535395281,87
+"{avocado,spaghetti}",0.0079989334755366,60
+"{avocado,eggs}",0.00559925343287562,42
+"{avocado,chocolate}",0.00706572457005733,53
+"{avocado,french fries}",0.0079989334755366,60
+"{avocado,milk}",0.00746567124383416,56
+"{avocado,green tea}",0.00626583122250367,47
+"{avocado,frozen vegetables}",0.00466604452739635,35
+"{avocado,pancakes}",0.00439941341154513,33
+"{avocado,burgers}",0.00453272896947074,34
+"{avocado,cake}",0.00426609785361952,32
+"{avocado,frozen smoothie}",0.00506599120117318,38
+"{avocado,soup}",0.00439941341154513,33
+"{cookies,french fries,green tea}",0.00466604452739635,35
+"{cookies,mineral water}",0.00746567124383416,56
+"{cookies,spaghetti}",0.0079989334755366,60
+"{cookies,eggs}",0.0105319290761232,79
+"{chocolate,cookies}",0.0103986135181976,78
+"{cookies,french fries}",0.013331555792561,100
+"{cookies,milk}",0.00439941341154513,33
+"{cookies,green tea}",0.0119984002133049,90
+"{cookies,ground beef}",0.00439941341154513,33
+"{cookies,pancakes}",0.00519930675909879,39
+"{burgers,cookies}",0.00559925343287562,42
+"{cookies,shrimp}",0.00413278229569391,31
+"{cookies,low fat yogurt}",0.0053326223170244,40
+"{fresh bread,mineral water}",0.013331555792561,100
+"{fresh bread,spaghetti}",0.00906545793894147,68
+"{eggs,fresh bread}",0.00866551126516464,65
+"{chocolate,fresh bread}",0.00946540461271831,71
+"{french fries,fresh bread}",0.00826556459138782,62
+"{fresh bread,milk}",0.00919877349686708,69
+"{fresh bread,green tea}",0.00639914678042928,48
+"{fresh bread,ground beef}",0.00613251566457806,46
+"{fresh bread,frozen vegetables}",0.00679909345420611,51
+"{fresh bread,pancakes}",0.0053326223170244,40
+"{cake,fresh bread}",0.00439941341154513,33
+"{fresh bread,shrimp}",0.00519930675909879,39
+"{fresh bread,olive oil}",0.00506599120117318,38
+"{fresh bread,tomatoes}",0.00466604452739635,35
+"{fresh bread,low fat yogurt}",0.00426609785361952,32
+"{fresh bread,frozen smoothie}",0.00426609785361952,32
+"{chicken,fresh bread}",0.00519930675909879,39
+"{milk,mineral water,salmon}",0.00439941341154513,33
+"{chocolate,mineral water,salmon}",0.00453272896947074,34
+"{mineral water,salmon,spaghetti}",0.00679909345420611,51
+"{mineral water,salmon}",0.0170643914144781,128
+"{salmon,spaghetti}",0.0134648713504866,101
+"{eggs,salmon}",0.00826556459138782,62
+"{chocolate,salmon}",0.0106652446340488,80
+"{french fries,salmon}",0.00586588454872684,44
+"{milk,salmon}",0.00973203572856952,73
+"{green tea,salmon}",0.00586588454872684,44
+"{ground beef,salmon}",0.00893214238101587,67
+"{frozen vegetables,salmon}",0.00626583122250367,47
+"{pancakes,salmon}",0.00426609785361952,32
+"{burgers,salmon}",0.00453272896947074,34
+"{salmon,shrimp}",0.00466604452739635,35
+"{olive oil,salmon}",0.00573256899080123,43
+"{salmon,tomatoes}",0.00493267564324757,37
+"{frozen smoothie,salmon}",0.00506599120117318,38
+"{salmon,turkey}",0.00413278229569391,31
+"{grated cheese,salmon}",0.00519930675909879,39
+"{honey,mineral water}",0.0150646580455939,113
+"{honey,spaghetti}",0.0118650846553793,89
+"{eggs,honey}",0.00573256899080123,43
+"{chocolate,honey}",0.0079989334755366,60
+"{french fries,honey}",0.00893214238101587,67
+"{honey,milk}",0.00773230235968538,58
+"{green tea,honey}",0.00933208905479269,70
+"{ground beef,honey}",0.00679909345420611,51
+"{frozen vegetables,honey}",0.00759898680175977,57
+"{honey,pancakes}",0.0066657778962805,50
+"{burgers,honey}",0.00626583122250367,47
+"{cake,honey}",0.00439941341154513,33
+"{honey,shrimp}",0.00439941341154513,33
+"{honey,olive oil}",0.00479936008532196,36
+"{honey,tomatoes}",0.0053326223170244,40
+"{frozen smoothie,honey}",0.00586588454872684,44
+"{chicken,honey}",0.00413278229569391,31
+"{honey,turkey}",0.00573256899080123,43
+"{grated cheese,honey}",0.00413278229569391,31
+"{ground beef,herb & pepper,mineral water}",0.0066657778962805,50
+"{ground beef,herb & pepper,spaghetti}",0.00639914678042928,48
+"{eggs,ground beef,herb & pepper}",0.00413278229569391,31
+"{herb & pepper,milk,mineral water}",0.00413278229569391,31
+"{eggs,herb & pepper,mineral water}",0.0053326223170244,40
+"{eggs,herb & pepper,spaghetti}",0.00479936008532196,36
+"{herb & pepper,mineral water,spaghetti}",0.00599920010665245,45
+"{herb & pepper,mineral water}",0.0170643914144781,128
+"{herb & pepper,spaghetti}",0.0162644980669244,122
+"{eggs,herb & pepper}",0.0125316624450073,94
+"{chocolate,herb & pepper}",0.00906545793894147,68
+"{french fries,herb & pepper}",0.00693240901213172,52
+"{herb & pepper,milk}",0.00919877349686708,69
+"{green tea,herb & pepper}",0.00639914678042928,48
+"{ground beef,herb & pepper}",0.0159978669510732,120
+"{frozen vegetables,herb & pepper}",0.00599920010665245,45
+"{herb & pepper,pancakes}",0.00733235568590855,55
+"{burgers,herb & pepper}",0.00413278229569391,31
+"{cake,herb & pepper}",0.00453272896947074,34
+"{herb & pepper,shrimp}",0.00706572457005733,53
+"{herb & pepper,olive oil}",0.00506599120117318,38
+"{herb & pepper,tomatoes}",0.00439941341154513,33
+"{herb & pepper,low fat yogurt}",0.00586588454872684,44
+"{chicken,herb & pepper}",0.00493267564324757,37
+"{herb & pepper,turkey}",0.00479936008532196,36
+"{cooking oil,herb & pepper}",0.0053326223170244,40
+"{grated cheese,herb & pepper}",0.00653246233835489,49
+"{grated cheese,ground beef,mineral water}",0.00506599120117318,38
+"{grated cheese,ground beef,spaghetti}",0.0053326223170244,40
+"{eggs,grated cheese,mineral water}",0.00439941341154513,33
+"{eggs,grated cheese,spaghetti}",0.00426609785361952,32
+"{grated cheese,mineral water,spaghetti}",0.00626583122250367,47
+"{grated cheese,mineral water}",0.0174643380882549,131
+"{grated cheese,spaghetti}",0.0165311291827756,124
+"{eggs,grated cheese}",0.00906545793894147,68
+"{chocolate,grated cheese}",0.0109318757499,82
+"{french fries,grated cheese}",0.0103986135181976,78
+"{grated cheese,milk}",0.00786561791761099,59
+"{grated cheese,green tea}",0.00786561791761099,59
+"{grated cheese,ground beef}",0.0113318224236768,85
+"{frozen vegetables,grated cheese}",0.00679909345420611,51
+"{grated cheese,pancakes}",0.00693240901213172,52
+"{burgers,grated cheese}",0.00546593787495001,41
+"{cake,grated cheese}",0.00479936008532196,36
+"{grated cheese,shrimp}",0.00439941341154513,33
+"{grated cheese,olive oil}",0.00626583122250367,47
+"{grated cheese,tomatoes}",0.00439941341154513,33
+"{grated cheese,low fat yogurt}",0.00559925343287562,42
+"{chicken,grated cheese}",0.00426609785361952,32
+"{grated cheese,turkey}",0.00493267564324757,37
+"{escalope,grated cheese}",0.00479936008532196,36
+"{grated cheese,whole wheat rice}",0.00453272896947074,34
+"{cooking oil,grated cheese}",0.00573256899080123,43
+"{mineral water,olive oil,soup}",0.00519930675909879,39
+"{mineral water,pancakes,soup}",0.00426609785361952,32
+"{frozen vegetables,mineral water,soup}",0.00506599120117318,38
+"{ground beef,mineral water,soup}",0.00506599120117318,38
+"{milk,mineral water,soup}",0.00853219570723903,64
+"{milk,soup,spaghetti}",0.00453272896947074,34
+"{chocolate,mineral water,soup}",0.00559925343287562,42
+"{eggs,mineral water,soup}",0.00493267564324757,37
+"{mineral water,soup,spaghetti}",0.00746567124383416,56
+"{mineral water,soup}",0.0230635915211305,173
+"{soup,spaghetti}",0.0142647646980403,107
+"{eggs,soup}",0.00906545793894147,68
+"{chocolate,soup}",0.0101319824023464,76
+"{french fries,soup}",0.00759898680175977,57
+"{milk,soup}",0.0151979736035195,114
+"{green tea,soup}",0.00706572457005733,53
+"{ground beef,soup}",0.00973203572856952,73
+"{frozen vegetables,soup}",0.0079989334755366,60
+"{pancakes,soup}",0.00679909345420611,51
+"{burgers,soup}",0.00626583122250367,47
+"{cake,soup}",0.00613251566457806,46
+"{shrimp,soup}",0.00559925343287562,42
+"{olive oil,soup}",0.00893214238101587,67
+"{soup,tomatoes}",0.00693240901213172,52
+"{low fat yogurt,soup}",0.00573256899080123,43
+"{chicken,soup}",0.00599920010665245,45
+"{soup,turkey}",0.00493267564324757,37
+"{cooking oil,soup}",0.0053326223170244,40
+"{cooking oil,mineral water,pancakes}",0.00466604452739635,35
+"{cooking oil,ground beef,spaghetti}",0.00479936008532196,36
+"{cooking oil,milk,mineral water}",0.00466604452739635,35
+"{chocolate,cooking oil,milk}",0.00439941341154513,33
+"{chocolate,cooking oil,mineral water}",0.00573256899080123,43
+"{chocolate,cooking oil,spaghetti}",0.00439941341154513,33
+"{chocolate,cooking oil,eggs}",0.00453272896947074,34
+"{cooking oil,eggs,mineral water}",0.00639914678042928,48
+"{cooking oil,eggs,spaghetti}",0.00413278229569391,31
+"{cooking oil,mineral water,spaghetti}",0.00759898680175977,57
+"{cooking oil,mineral water}",0.0201306492467671,151
+"{cooking oil,spaghetti}",0.0158645513931476,119
+"{cooking oil,eggs}",0.0117317690974537,88
+"{chocolate,cooking oil}",0.0135981869084122,102
+"{cooking oil,french fries}",0.00786561791761099,59
+"{cooking oil,milk}",0.0114651379816025,86
+"{cooking oil,green tea}",0.00706572457005733,53
+"{cooking oil,ground beef}",0.00839888014931343,63
+"{cooking oil,frozen vegetables}",0.00679909345420611,51
+"{cooking oil,pancakes}",0.00786561791761099,59
+"{burgers,cooking oil}",0.00573256899080123,43
+"{cake,cooking oil}",0.00493267564324757,37
+"{cooking oil,shrimp}",0.00599920010665245,45
+"{cooking oil,olive oil}",0.00506599120117318,38
+"{cooking oil,tomatoes}",0.0066657778962805,50
+"{cooking oil,low fat yogurt}",0.00653246233835489,49
+"{cooking oil,frozen smoothie}",0.00479936008532196,36
+"{chicken,cooking oil}",0.00679909345420611,51
+"{cooking oil,turkey}",0.00573256899080123,43
+"{cooking oil,escalope}",0.0053326223170244,40
+"{cooking oil,whole wheat rice}",0.00546593787495001,41
+"{mineral water,pancakes,whole wheat rice}",0.00413278229569391,31
+"{frozen vegetables,mineral water,whole wheat rice}",0.00439941341154513,33
+"{milk,mineral water,whole wheat rice}",0.00506599120117318,38
+"{chocolate,spaghetti,whole wheat rice}",0.00413278229569391,31
+"{mineral water,spaghetti,whole wheat rice}",0.00626583122250367,47
+"{mineral water,whole wheat rice}",0.0201306492467671,151
+"{spaghetti,whole wheat rice}",0.0141314491401147,106
+"{eggs,whole wheat rice}",0.0109318757499,82
+"{chocolate,whole wheat rice}",0.0119984002133049,90
+"{french fries,whole wheat rice}",0.0105319290761232,79
+"{milk,whole wheat rice}",0.0118650846553793,89
+"{green tea,whole wheat rice}",0.00906545793894147,68
+"{ground beef,whole wheat rice}",0.0081322490334622,61
+"{frozen vegetables,whole wheat rice}",0.00906545793894147,68
+"{pancakes,whole wheat rice}",0.00693240901213172,52
+"{burgers,whole wheat rice}",0.00893214238101587,67
+"{cake,whole wheat rice}",0.00773230235968538,58
+"{shrimp,whole wheat rice}",0.00586588454872684,44
+"{tomatoes,whole wheat rice}",0.00599920010665245,45
+"{low fat yogurt,whole wheat rice}",0.00653246233835489,49
+"{frozen smoothie,whole wheat rice}",0.00599920010665245,45
+"{chicken,whole wheat rice}",0.00546593787495001,41
+"{turkey,whole wheat rice}",0.00706572457005733,53
+"{escalope,whole wheat rice}",0.00519930675909879,39
+"{chocolate,escalope,french fries}",0.00519930675909879,39
+"{chocolate,escalope,mineral water}",0.00559925343287562,42
+"{chocolate,escalope,spaghetti}",0.00439941341154513,33
+"{escalope,mineral water,spaghetti}",0.00479936008532196,36
+"{escalope,mineral water}",0.0170643914144781,128
+"{escalope,spaghetti}",0.013998133582189,105
+"{eggs,escalope}",0.0110651913078256,83
+"{chocolate,escalope}",0.0175976536461805,132
+"{escalope,french fries}",0.01639781362485,123
+"{escalope,milk}",0.00773230235968538,58
+"{escalope,green tea}",0.00893214238101587,67
+"{escalope,ground beef}",0.00826556459138782,62
+"{escalope,frozen vegetables}",0.00759898680175977,57
+"{escalope,pancakes}",0.00586588454872684,44
+"{burgers,escalope}",0.00706572457005733,53
+"{cake,escalope}",0.00413278229569391,31
+"{escalope,shrimp}",0.00426609785361952,32
+"{escalope,tomatoes}",0.00546593787495001,41
+"{escalope,low fat yogurt}",0.00466604452739635,35
+"{escalope,frozen smoothie}",0.00546593787495001,41
+"{escalope,turkey}",0.00426609785361952,32
+"{frozen vegetables,mineral water,turkey}",0.00439941341154513,33
+"{milk,mineral water,turkey}",0.00613251566457806,46
+"{milk,spaghetti,turkey}",0.00479936008532196,36
+"{chocolate,mineral water,turkey}",0.00413278229569391,31
+"{eggs,mineral water,turkey}",0.00559925343287562,42
+"{eggs,spaghetti,turkey}",0.00519930675909879,39
+"{mineral water,spaghetti,turkey}",0.00639914678042928,48
+"{mineral water,turkey}",0.0191974403412878,144
+"{spaghetti,turkey}",0.0165311291827756,124
+"{eggs,turkey}",0.019464071457139,146
+"{chocolate,turkey}",0.0113318224236768,85
+"{french fries,turkey}",0.0106652446340488,80
+"{milk,turkey}",0.0113318224236768,85
+"{green tea,turkey}",0.0118650846553793,89
+"{ground beef,turkey}",0.00919877349686708,69
+"{frozen vegetables,turkey}",0.00879882682309025,66
+"{pancakes,turkey}",0.00959872017064391,72
+"{burgers,turkey}",0.0106652446340488,80
+"{cake,turkey}",0.00693240901213172,52
+"{shrimp,turkey}",0.00639914678042928,48
+"{olive oil,turkey}",0.0053326223170244,40
+"{tomatoes,turkey}",0.00653246233835489,49
+"{low fat yogurt,turkey}",0.00506599120117318,38
+"{frozen smoothie,turkey}",0.00413278229569391,31
+"{chicken,turkey}",0.00479936008532196,36
+"{chicken,mineral water,pancakes}",0.00479936008532196,36
+"{chicken,ground beef,spaghetti}",0.00479936008532196,36
+"{chicken,milk,mineral water}",0.0066657778962805,50
+"{chicken,milk,spaghetti}",0.00546593787495001,41
+"{chicken,eggs,milk}",0.00413278229569391,31
+"{chicken,chocolate,milk}",0.00453272896947074,34
+"{chicken,french fries,mineral water}",0.00426609785361952,32
+"{chicken,chocolate,mineral water}",0.00759898680175977,57
+"{chicken,chocolate,spaghetti}",0.00426609785361952,32
+"{chicken,eggs,mineral water}",0.00519930675909879,39
+"{chicken,eggs,spaghetti}",0.00413278229569391,31
+"{chicken,mineral water,spaghetti}",0.00693240901213172,52
+"{chicken,mineral water}",0.0227969604052793,171
+"{chicken,spaghetti}",0.0171977069724037,129
+"{chicken,eggs}",0.0143980802559659,108
+"{chicken,chocolate}",0.0146647113718171,110
+"{chicken,french fries}",0.0110651913078256,83
+"{chicken,milk}",0.0147980269297427,111
+"{chicken,green tea}",0.0118650846553793,89
+"{chicken,ground beef}",0.00946540461271831,71
+"{chicken,frozen vegetables}",0.00893214238101587,67
+"{chicken,pancakes}",0.00906545793894147,68
+"{burgers,chicken}",0.00626583122250367,47
+"{cake,chicken}",0.00653246233835489,49
+"{chicken,shrimp}",0.00626583122250367,47
+"{chicken,olive oil}",0.00719904012798294,54
+"{chicken,tomatoes}",0.00639914678042928,48
+"{chicken,low fat yogurt}",0.00439941341154513,33
+"{chicken,frozen smoothie}",0.0066657778962805,50
+"{frozen smoothie,frozen vegetables,spaghetti}",0.00413278229569391,31
+"{frozen smoothie,milk,mineral water}",0.00613251566457806,46
+"{frozen smoothie,milk,spaghetti}",0.00559925343287562,42
+"{chocolate,frozen smoothie,milk}",0.00413278229569391,31
+"{chocolate,frozen smoothie,mineral water}",0.00506599120117318,38
+"{chocolate,frozen smoothie,spaghetti}",0.00466604452739635,35
+"{eggs,frozen smoothie,mineral water}",0.00413278229569391,31
+"{frozen smoothie,mineral water,spaghetti}",0.00679909345420611,51
+"{frozen smoothie,mineral water}",0.0202639648046927,152
+"{frozen smoothie,spaghetti}",0.0155979202772964,117
+"{eggs,frozen smoothie}",0.0110651913078256,83
+"{chocolate,frozen smoothie}",0.0149313424876683,112
+"{french fries,frozen smoothie}",0.0145313958138915,109
+"{frozen smoothie,milk}",0.0142647646980403,107
+"{frozen smoothie,green tea}",0.0111985068657512,84
+"{frozen smoothie,ground beef}",0.00759898680175977,57
+"{frozen smoothie,frozen vegetables}",0.00999866684442074,75
+"{frozen smoothie,pancakes}",0.00906545793894147,68
+"{burgers,frozen smoothie}",0.00719904012798294,54
+"{cake,frozen smoothie}",0.00639914678042928,48
+"{frozen smoothie,shrimp}",0.00733235568590855,55
+"{frozen smoothie,olive oil}",0.00693240901213172,52
+"{frozen smoothie,tomatoes}",0.00653246233835489,49
+"{frozen smoothie,low fat yogurt}",0.00733235568590855,55
+"{low fat yogurt,mineral water,pancakes}",0.00426609785361952,32
+"{frozen vegetables,low fat yogurt,mineral water}",0.00453272896947074,34
+"{ground beef,low fat yogurt,mineral water}",0.00479936008532196,36
+"{low fat yogurt,milk,mineral water}",0.00479936008532196,36
+"{low fat yogurt,milk,spaghetti}",0.00439941341154513,33
+"{chocolate,low fat yogurt,mineral water}",0.00573256899080123,43
+"{eggs,low fat yogurt,mineral water}",0.00613251566457806,46
+"{low fat yogurt,mineral water,spaghetti}",0.00559925343287562,42
+"{low fat yogurt,mineral water}",0.0239968004266098,180
+"{low fat yogurt,spaghetti}",0.0151979736035195,114
+"{eggs,low fat yogurt}",0.0167977602986269,126
+"{chocolate,low fat yogurt}",0.0147980269297427,111
+"{french fries,low fat yogurt}",0.013331555792561,100
+"{low fat yogurt,milk}",0.0131982402346354,99
+"{green tea,low fat yogurt}",0.00759898680175977,57
+"{ground beef,low fat yogurt}",0.00959872017064391,72
+"{frozen vegetables,low fat yogurt}",0.0101319824023464,76
+"{low fat yogurt,pancakes}",0.00946540461271831,71
+"{burgers,low fat yogurt}",0.0066657778962805,50
+"{cake,low fat yogurt}",0.00693240901213172,52
+"{low fat yogurt,shrimp}",0.00626583122250367,47
+"{low fat yogurt,olive oil}",0.00679909345420611,51
+"{low fat yogurt,tomatoes}",0.00599920010665245,45
+"{mineral water,olive oil,tomatoes}",0.00413278229569391,31
+"{olive oil,spaghetti,tomatoes}",0.00439941341154513,33
+"{mineral water,pancakes,tomatoes}",0.00466604452739635,35
+"{frozen vegetables,mineral water,tomatoes}",0.00586588454872684,44
+"{frozen vegetables,spaghetti,tomatoes}",0.0066657778962805,50
+"{frozen vegetables,milk,tomatoes}",0.00413278229569391,31
+"{ground beef,mineral water,tomatoes}",0.00546593787495001,41
+"{ground beef,spaghetti,tomatoes}",0.00559925343287562,42
+"{milk,mineral water,tomatoes}",0.00653246233835489,49
+"{milk,spaghetti,tomatoes}",0.00586588454872684,44
+"{chocolate,mineral water,tomatoes}",0.00573256899080123,43
+"{chocolate,spaghetti,tomatoes}",0.00493267564324757,37
+"{eggs,mineral water,tomatoes}",0.00506599120117318,38
+"{mineral water,spaghetti,tomatoes}",0.00933208905479269,70
+"{mineral water,tomatoes}",0.0243967471003866,183
+"{spaghetti,tomatoes}",0.0209305425943208,157
+"{eggs,tomatoes}",0.0122650313291561,92
+"{chocolate,tomatoes}",0.013998133582189,105
+"{french fries,tomatoes}",0.0119984002133049,90
+"{milk,tomatoes}",0.013998133582189,105
+"{green tea,tomatoes}",0.0122650313291561,92
+"{ground beef,tomatoes}",0.0117317690974537,88
+"{frozen vegetables,tomatoes}",0.0161311825089988,121
+"{pancakes,tomatoes}",0.00986535128649513,74
+"{burgers,tomatoes}",0.00826556459138782,62
+"{cake,tomatoes}",0.00839888014931343,63
+"{shrimp,tomatoes}",0.0111985068657512,84
+"{olive oil,tomatoes}",0.00719904012798294,54
+"{mineral water,olive oil,shrimp}",0.00453272896947074,34
+"{mineral water,olive oil,pancakes}",0.00466604452739635,35
+"{olive oil,pancakes,spaghetti}",0.00506599120117318,38
+"{frozen vegetables,mineral water,olive oil}",0.00653246233835489,49
+"{frozen vegetables,olive oil,spaghetti}",0.00573256899080123,43
+"{frozen vegetables,milk,olive oil}",0.00479936008532196,36
+"{ground beef,mineral water,olive oil}",0.0066657778962805,50
+"{ground beef,olive oil,spaghetti}",0.00613251566457806,46
+"{ground beef,milk,olive oil}",0.00493267564324757,37
+"{green tea,mineral water,olive oil}",0.00426609785361952,32
+"{green tea,olive oil,spaghetti}",0.00453272896947074,34
+"{milk,mineral water,olive oil}",0.00853219570723903,64
+"{milk,olive oil,spaghetti}",0.00719904012798294,54
+"{chocolate,milk,olive oil}",0.00519930675909879,39
+"{chocolate,mineral water,olive oil}",0.00826556459138782,62
+"{chocolate,olive oil,spaghetti}",0.00706572457005733,53
+"{eggs,mineral water,olive oil}",0.00586588454872684,44
+"{eggs,olive oil,spaghetti}",0.00506599120117318,38
+"{mineral water,olive oil,spaghetti}",0.010265297960272,77
+"{mineral water,olive oil}",0.0275963204906013,207
+"{olive oil,spaghetti}",0.0229302759632049,172
+"{eggs,olive oil}",0.0119984002133049,90
+"{chocolate,olive oil}",0.01639781362485,123
+"{french fries,olive oil}",0.00919877349686708,69
+"{milk,olive oil}",0.0170643914144781,128
+"{green tea,olive oil}",0.00999866684442074,75
+"{ground beef,olive oil}",0.0141314491401147,106
+"{frozen vegetables,olive oil}",0.0113318224236768,85
+"{olive oil,pancakes}",0.0107985601919744,81
+"{burgers,olive oil}",0.00639914678042928,48
+"{cake,olive oil}",0.00653246233835489,49
+"{olive oil,shrimp}",0.0081322490334622,61
+"{mineral water,pancakes,shrimp}",0.00453272896947074,34
+"{frozen vegetables,mineral water,shrimp}",0.00719904012798294,54
+"{frozen vegetables,shrimp,spaghetti}",0.00599920010665245,45
+"{chocolate,frozen vegetables,shrimp}",0.0053326223170244,40
+"{frozen vegetables,milk,shrimp}",0.00466604452739635,35
+"{ground beef,mineral water,shrimp}",0.00506599120117318,38
+"{ground beef,shrimp,spaghetti}",0.00599920010665245,45
+"{milk,mineral water,shrimp}",0.00786561791761099,59
+"{milk,shrimp,spaghetti}",0.00493267564324757,37
+"{eggs,milk,shrimp}",0.00426609785361952,32
+"{chocolate,milk,shrimp}",0.00546593787495001,41
+"{chocolate,mineral water,shrimp}",0.00759898680175977,57
+"{chocolate,shrimp,spaghetti}",0.00639914678042928,48
+"{eggs,mineral water,shrimp}",0.00519930675909879,39
+"{mineral water,shrimp,spaghetti}",0.00853219570723903,64
+"{mineral water,shrimp}",0.023596853752833,177
+"{shrimp,spaghetti}",0.021197173710172,159
+"{eggs,shrimp}",0.0141314491401147,106
+"{chocolate,shrimp}",0.0179976003199573,135
+"{french fries,shrimp}",0.00999866684442074,75
+"{milk,shrimp}",0.0175976536461805,132
+"{green tea,shrimp}",0.0114651379816025,86
+"{ground beef,shrimp}",0.0114651379816025,86
+"{frozen vegetables,shrimp}",0.0166644447407012,125
+"{pancakes,shrimp}",0.0105319290761232,79
+"{burgers,shrimp}",0.00879882682309025,66
+"{cake,shrimp}",0.00759898680175977,57
+"{burgers,cake,mineral water}",0.00479936008532196,36
+"{cake,mineral water,pancakes}",0.00413278229569391,31
+"{cake,pancakes,spaghetti}",0.00413278229569391,31
+"{cake,frozen vegetables,mineral water}",0.00479936008532196,36
+"{cake,green tea,mineral water}",0.00413278229569391,31
+"{cake,french fries,green tea}",0.00439941341154513,33
+"{cake,milk,mineral water}",0.00639914678042928,48
+"{cake,milk,spaghetti}",0.00413278229569391,31
+"{cake,eggs,milk}",0.00413278229569391,31
+"{cake,french fries,mineral water}",0.00639914678042928,48
+"{cake,eggs,french fries}",0.00453272896947074,34
+"{cake,chocolate,mineral water}",0.00559925343287562,42
+"{cake,chocolate,spaghetti}",0.00519930675909879,39
+"{cake,chocolate,eggs}",0.00426609785361952,32
+"{cake,eggs,mineral water}",0.00719904012798294,54
+"{cake,eggs,spaghetti}",0.00479936008532196,36
+"{cake,mineral water,spaghetti}",0.00706572457005733,53
+"{cake,mineral water}",0.0274630049326756,206
+"{cake,spaghetti}",0.0181309158778829,136
+"{cake,eggs}",0.0190641247833622,143
+"{cake,chocolate}",0.0135981869084122,102
+"{cake,french fries}",0.0178642847620317,134
+"{cake,milk}",0.013331555792561,100
+"{cake,green tea}",0.0141314491401147,106
+"{cake,ground beef}",0.0081322490334622,61
+"{cake,frozen vegetables}",0.010265297960272,77
+"{cake,pancakes}",0.0118650846553793,89
+"{burgers,cake}",0.0114651379816025,86
+"{burgers,pancakes,spaghetti}",0.00439941341154513,33
+"{burgers,eggs,pancakes}",0.00413278229569391,31
+"{burgers,frozen vegetables,mineral water}",0.00493267564324757,37
+"{burgers,ground beef,mineral water}",0.0053326223170244,40
+"{burgers,ground beef,spaghetti}",0.00546593787495001,41
+"{burgers,ground beef,milk}",0.00413278229569391,31
+"{burgers,green tea,spaghetti}",0.00479936008532196,36
+"{burgers,eggs,green tea}",0.00599920010665245,45
+"{burgers,french fries,green tea}",0.00546593787495001,41
+"{burgers,milk,mineral water}",0.00693240901213172,52
+"{burgers,milk,spaghetti}",0.00639914678042928,48
+"{burgers,eggs,milk}",0.0053326223170244,40
+"{burgers,chocolate,milk}",0.00546593787495001,41
+"{burgers,french fries,milk}",0.00559925343287562,42
+"{burgers,french fries,mineral water}",0.00519930675909879,39
+"{burgers,french fries,spaghetti}",0.00559925343287562,42
+"{burgers,eggs,french fries}",0.00906545793894147,68
+"{burgers,chocolate,french fries}",0.00479936008532196,36
+"{burgers,chocolate,mineral water}",0.00573256899080123,43
+"{burgers,chocolate,spaghetti}",0.00639914678042928,48
+"{burgers,chocolate,eggs}",0.00546593787495001,41
+"{burgers,eggs,mineral water}",0.00786561791761099,59
+"{burgers,eggs,spaghetti}",0.00719904012798294,54
+"{burgers,mineral water,spaghetti}",0.00653246233835489,49
+"{burgers,mineral water}",0.0243967471003866,183
+"{burgers,spaghetti}",0.0214638048260232,161
+"{burgers,eggs}",0.0287961605119317,216
+"{burgers,chocolate}",0.0170643914144781,128
+"{burgers,french fries}",0.0219970670577256,165
+"{burgers,milk}",0.0178642847620317,134
+"{burgers,green tea}",0.0174643380882549,131
+"{burgers,ground beef}",0.0119984002133049,90
+"{burgers,frozen vegetables}",0.0105319290761232,79
+"{burgers,pancakes}",0.0105319290761232,79
+"{frozen vegetables,mineral water,pancakes}",0.00613251566457806,46
+"{frozen vegetables,pancakes,spaghetti}",0.00439941341154513,33
+"{ground beef,mineral water,pancakes}",0.00746567124383416,56
+"{ground beef,pancakes,spaghetti}",0.00639914678042928,48
+"{green tea,mineral water,pancakes}",0.00573256899080123,43
+"{green tea,pancakes,spaghetti}",0.00493267564324757,37
+"{chocolate,green tea,pancakes}",0.00426609785361952,32
+"{french fries,green tea,pancakes}",0.00453272896947074,34
+"{milk,mineral water,pancakes}",0.00786561791761099,59
+"{milk,pancakes,spaghetti}",0.00493267564324757,37
+"{eggs,milk,pancakes}",0.00466604452739635,35
+"{chocolate,milk,pancakes}",0.00479936008532196,36
+"{french fries,mineral water,pancakes}",0.00653246233835489,49
+"{french fries,pancakes,spaghetti}",0.00573256899080123,43
+"{eggs,french fries,pancakes}",0.00479936008532196,36
+"{chocolate,french fries,pancakes}",0.00546593787495001,41
+"{chocolate,mineral water,pancakes}",0.00933208905479269,70
+"{chocolate,pancakes,spaghetti}",0.00679909345420611,51
+"{chocolate,eggs,pancakes}",0.00559925343287562,42
+"{eggs,mineral water,pancakes}",0.00786561791761099,59
+"{eggs,pancakes,spaghetti}",0.0066657778962805,50
+"{mineral water,pancakes,spaghetti}",0.0114651379816025,86
+"{mineral water,pancakes}",0.0337288361551793,253
+"{pancakes,spaghetti}",0.0251966404479403,189
+"{eggs,pancakes}",0.0217304359418744,163
+"{chocolate,pancakes}",0.0198640181309159,149
+"{french fries,pancakes}",0.0201306492467671,151
+"{milk,pancakes}",0.0165311291827756,124
+"{green tea,pancakes}",0.01639781362485,123
+"{ground beef,pancakes}",0.0145313958138915,109
+"{frozen vegetables,pancakes}",0.0134648713504866,101
+"{frozen vegetables,ground beef,mineral water,spaghetti}",0.00439941341154513,33
+"{frozen vegetables,ground beef,mineral water}",0.00919877349686708,69
+"{frozen vegetables,ground beef,spaghetti}",0.00866551126516464,65
+"{eggs,frozen vegetables,ground beef}",0.00439941341154513,33
+"{chocolate,frozen vegetables,ground beef}",0.00573256899080123,43
+"{frozen vegetables,ground beef,milk}",0.00573256899080123,43
+"{frozen vegetables,green tea,mineral water}",0.00453272896947074,34
+"{frozen vegetables,green tea,spaghetti}",0.00426609785361952,32
+"{frozen vegetables,milk,mineral water,spaghetti}",0.00453272896947074,34
+"{frozen vegetables,milk,mineral water}",0.0110651913078256,83
+"{frozen vegetables,milk,spaghetti}",0.00826556459138782,62
+"{eggs,frozen vegetables,milk}",0.00733235568590855,55
+"{chocolate,frozen vegetables,milk}",0.0079989334755366,60
+"{french fries,frozen vegetables,milk}",0.00573256899080123,43
+"{french fries,frozen vegetables,mineral water}",0.00613251566457806,46
+"{french fries,frozen vegetables,spaghetti}",0.0053326223170244,40
+"{eggs,french fries,frozen vegetables}",0.00519930675909879,39
+"{chocolate,french fries,frozen vegetables}",0.00559925343287562,42
+"{chocolate,frozen vegetables,mineral water,spaghetti}",0.00413278229569391,31
+"{chocolate,frozen vegetables,mineral water}",0.00973203572856952,73
+"{chocolate,frozen vegetables,spaghetti}",0.00786561791761099,59
+"{chocolate,eggs,frozen vegetables}",0.00573256899080123,43
+"{eggs,frozen vegetables,mineral water}",0.00906545793894147,68
+"{eggs,frozen vegetables,spaghetti}",0.00573256899080123,43
+"{frozen vegetables,mineral water,spaghetti}",0.0119984002133049,90
+"{frozen vegetables,mineral water}",0.0357285695240635,268
+"{frozen vegetables,spaghetti}",0.0278629516064525,209
+"{eggs,frozen vegetables}",0.0217304359418744,163
+"{chocolate,frozen vegetables}",0.0229302759632049,172
+"{french fries,frozen vegetables}",0.0190641247833622,143
+"{frozen vegetables,milk}",0.023596853752833,177
+"{frozen vegetables,green tea}",0.0143980802559659,108
+"{frozen vegetables,ground beef}",0.0169310758565525,127
+"{green tea,ground beef,mineral water}",0.00519930675909879,39
+"{green tea,ground beef,spaghetti}",0.00639914678042928,48
+"{ground beef,milk,mineral water,spaghetti}",0.00439941341154513,33
+"{ground beef,milk,mineral water}",0.0110651913078256,83
+"{ground beef,milk,spaghetti}",0.00973203572856952,73
+"{eggs,ground beef,milk}",0.00586588454872684,44
+"{chocolate,ground beef,milk}",0.00613251566457806,46
+"{french fries,ground beef,mineral water}",0.0053326223170244,40
+"{french fries,ground beef,spaghetti}",0.00559925343287562,42
+"{chocolate,ground beef,mineral water}",0.0109318757499,82
+"{chocolate,ground beef,spaghetti}",0.00919877349686708,69
+"{chocolate,eggs,ground beef}",0.00653246233835489,49
+"{eggs,ground beef,mineral water}",0.0101319824023464,76
+"{eggs,ground beef,spaghetti}",0.00893214238101587,67
+"{ground beef,mineral water,spaghetti}",0.0170643914144781,128
+"{ground beef,mineral water}",0.0409278762831622,307
+"{ground beef,spaghetti}",0.0391947740301293,294
+"{eggs,ground beef}",0.0199973336888415,150
+"{chocolate,ground beef}",0.0230635915211305,173
+"{french fries,ground beef}",0.0138648180242634,104
+"{ground beef,milk}",0.0219970670577256,165
+"{green tea,ground beef}",0.0147980269297427,111
+"{green tea,milk,mineral water}",0.00573256899080123,43
+"{green tea,milk,spaghetti}",0.00519930675909879,39
+"{chocolate,green tea,milk}",0.00466604452739635,35
+"{french fries,green tea,mineral water}",0.00613251566457806,46
+"{french fries,green tea,spaghetti}",0.0053326223170244,40
+"{eggs,french fries,green tea}",0.00706572457005733,53
+"{chocolate,french fries,green tea}",0.00519930675909879,39
+"{chocolate,green tea,mineral water}",0.00693240901213172,52
+"{chocolate,green tea,spaghetti}",0.00706572457005733,53
+"{chocolate,eggs,green tea}",0.00546593787495001,41
+"{eggs,green tea,mineral water}",0.00693240901213172,52
+"{eggs,green tea,spaghetti}",0.00573256899080123,43
+"{green tea,mineral water,spaghetti}",0.00826556459138782,62
+"{green tea,mineral water}",0.0310625249966671,233
+"{green tea,spaghetti}",0.0265297960271964,199
+"{eggs,green tea}",0.0254632715637915,191
+"{chocolate,green tea}",0.0234635381949073,176
+"{french fries,green tea}",0.0285295293960805,214
+"{green tea,milk}",0.0175976536461805,132
+"{french fries,milk,mineral water}",0.00826556459138782,62
+"{french fries,milk,spaghetti}",0.00639914678042928,48
+"{eggs,french fries,milk}",0.00719904012798294,54
+"{chocolate,french fries,milk}",0.00733235568590855,55
+"{chocolate,eggs,milk,mineral water}",0.00413278229569391,31
+"{chocolate,milk,mineral water,spaghetti}",0.00493267564324757,37
+"{chocolate,milk,mineral water}",0.013998133582189,105
+"{chocolate,milk,spaghetti}",0.0109318757499,82
+"{chocolate,eggs,milk}",0.00919877349686708,69
+"{eggs,milk,mineral water,spaghetti}",0.00439941341154513,33
+"{eggs,milk,mineral water}",0.0130649246767098,98
+"{eggs,milk,spaghetti}",0.00893214238101587,67
+"{milk,mineral water,spaghetti}",0.015731235835222,118
+"{milk,mineral water}",0.0479936008532196,360
+"{milk,spaghetti}",0.0354619384082122,266
+"{eggs,milk}",0.0307958938808159,231
+"{chocolate,milk}",0.032129049460072,241
+"{french fries,milk}",0.0237301693107586,178
+"{chocolate,french fries,mineral water}",0.00853219570723903,64
+"{chocolate,french fries,spaghetti}",0.0079989334755366,60
+"{chocolate,eggs,french fries}",0.00839888014931343,63
+"{eggs,french fries,mineral water}",0.00693240901213172,52
+"{eggs,french fries,spaghetti}",0.0079989334755366,60
+"{french fries,mineral water,spaghetti}",0.0101319824023464,76
+"{french fries,mineral water}",0.0337288361551793,253
+"{french fries,spaghetti}",0.0275963204906013,207
+"{eggs,french fries}",0.0363951473136915,273
+"{chocolate,french fries}",0.0343954139448074,258
+"{chocolate,eggs,mineral water,spaghetti}",0.00453272896947074,34
+"{chocolate,eggs,mineral water}",0.0134648713504866,101
+"{chocolate,eggs,spaghetti}",0.0105319290761232,79
+"{chocolate,mineral water,spaghetti}",0.0158645513931476,119
+"{chocolate,mineral water}",0.0526596453806159,395
+"{chocolate,spaghetti}",0.0391947740301293,294
+"{chocolate,eggs}",0.0331955739234769,249
+"{eggs,mineral water,spaghetti}",0.0142647646980403,107
+"{eggs,mineral water}",0.050926543127583,382
+"{eggs,spaghetti}",0.0365284628716171,274
+"{mineral water,spaghetti}",0.0597253699506732,448
